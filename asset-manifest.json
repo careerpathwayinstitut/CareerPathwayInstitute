@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/CareerPathwayInstitute/static/css/main.50d76008.css",
-    "main.js": "/CareerPathwayInstitute/static/js/main.28d591f3.js",
+    "main.css": "/CareerPathwayInstitute/static/css/main.dcc868bc.css",
+    "main.js": "/CareerPathwayInstitute/static/js/main.73227dd4.js",
+    "static/media/logo.jpg": "/CareerPathwayInstitute/static/media/logo.f416bc1ccb0ce3ab09ea.jpg",
     "index.html": "/CareerPathwayInstitute/index.html",
-    "main.50d76008.css.map": "/CareerPathwayInstitute/static/css/main.50d76008.css.map",
-    "main.28d591f3.js.map": "/CareerPathwayInstitute/static/js/main.28d591f3.js.map"
+    "main.dcc868bc.css.map": "/CareerPathwayInstitute/static/css/main.dcc868bc.css.map",
+    "main.73227dd4.js.map": "/CareerPathwayInstitute/static/js/main.73227dd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.50d76008.css",
-    "static/js/main.28d591f3.js"
+    "static/css/main.dcc868bc.css",
+    "static/js/main.73227dd4.js"
   ]
 }
