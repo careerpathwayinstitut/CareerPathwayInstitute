@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div className="p-6 bg-gray-800 text-gray-100 flex items-center	justify-center h-screen">
+    <div className="p-6 bg-gray-800 text-gray-100 flex lg:items-center	justify-center lg:h-screen">
       <div className="container grid gap-6 mx-auto text-center lg:grid-cols-2 xl:grid-cols-6">
         <div className="w-full px-6 pt-16 pb-36 rounded-md sm:px-12 md:px-16 xl:col-span-3 bg-gray-900">
           <span className="block mb-2 text-violet-400">California</span>
